@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel> 
+    <title>Equipos de esports</title>
+    <link>https://github.com/iesgrancapitan-1DAWB-2223-LM/ra3-tarea1-manuayalaa</link>
+    <description>Principales equipos de esports.</description>
+    <item>
+        <title>MAD Lions</title>
+        <link>https://github.com/iesgrancapitan-1DAWB-2223-LM/ra3-tarea1-manuayalaa</link>
+        <description>MAD Lions es, probablemente, la organización de esports más importante de España. Cuenta con un equipo de League of Legends que compite a nivel europeo en la LEC y también ha anunciado recientemente un equipo que competirá en Valorant, el shooter por equipos de Riot Games</description>
+        <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/manuayalaa/RSS_MDAR/main/Fotos/dux.jpg" length="8405" type="image/jpg" />
+        
+    </item>
+    <item>
+        <title>Movistar Riders</title>
+        <link>https://github.com/iesgrancapitan-1DAWB-2223-LM/ra3-tarea1-manuayalaa</link>
+        <description>Movistar Riders es uno de los equipos de esports más importantes en España. Cuenta con secciones para League of Legends, FIFA, Counter Strike y Valorant. Por otra parte, se trata de una organización que es pionera y cuenta con uno de los primeros centros de alto rendimiento para jugadores profesionales de videojuegos.</description>
+        <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/manuayalaa/RSS_MDAR/Fotos/movistar.jpg" length="8616" type="image/jpg" />
+        
+    </item>
+    <item>
+        <title>Giants Gaming</title>
+        <link>https://github.com/iesgrancapitan-1DAWB-2223-LM/ra3-tarea1-manuayalaa</link>
+        <description>Se trata de una organización de esports que cuenta con equipos que participan en Counter Strike, League of Legends, Tom Clancy’s Rainbow Six: Siege y en distintos juegos de lucha como: Dragon Ball FighterZ, Mortal Kombat 11, Tekken 7, Street Fighter V o Super Smash Bros. Ultimate.</description>
+        <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/manuayalaa/RSS_MDAR/Fotos/giants.png" length="1314" type="image/jpg" />
+        
+    </item>
+    <item>
+        <title>DUX Gaming</title>
+        <link>https://github.com/iesgrancapitan-1DAWB-2223-LM/ra3-tarea1-manuayalaa</link>
+        <description>DUX Gaming es una organización de esports que cuenta con equipos en España que participan, fundamentalmente, en competiciones de videojuegos deportivos. El juego en el que más destacan es en FIFA, pero también han empezado a competir en NBA 2K.</description>
+        <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/manuayalaa/RSS_MDAR/Fotos/dux.jpg" length="9247" type="image/jpg" />
+        
+    </item>
+</channel>
+</rss>
